@@ -1,231 +1,143 @@
-[22:52:30] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[22:52:31] [Server thread/INFO]: Loading properties
-[22:52:31] [Server thread/INFO]: Default game type: SURVIVAL
-[22:52:31] [Server thread/INFO]: Generating keypair
-[22:52:34] [Server thread/INFO]: Starting Minecraft server on 25.37.224.235:25565
-[22:52:35] [Server thread/INFO]: Preparing level "world"
-[22:52:35] [Server thread/INFO]: Preparing start region for level 0
-[22:52:36] [Server thread/INFO]: Preparing spawn area: 2%
-[22:52:37] [Server thread/INFO]: Preparing spawn area: 9%
-[22:52:38] [Server thread/INFO]: Preparing spawn area: 16%
-[22:52:40] [Server thread/INFO]: Preparing spawn area: 20%
-[22:52:41] [Server thread/INFO]: Preparing spawn area: 26%
-[22:52:42] [Server thread/INFO]: Preparing spawn area: 28%
-[22:52:43] [Server thread/INFO]: Preparing spawn area: 32%
-[22:52:44] [Server thread/INFO]: Preparing spawn area: 34%
-[22:52:45] [Server thread/INFO]: Preparing spawn area: 37%
-[22:52:46] [Server thread/INFO]: Preparing spawn area: 44%
-[22:52:47] [Server thread/INFO]: Preparing spawn area: 47%
-[22:52:48] [Server thread/INFO]: Preparing spawn area: 50%
-[22:52:49] [Server thread/INFO]: Preparing spawn area: 57%
-[22:52:50] [Server thread/INFO]: Preparing spawn area: 64%
-[22:52:51] [Server thread/INFO]: Preparing spawn area: 75%
-[22:52:52] [Server thread/INFO]: Preparing spawn area: 85%
-[22:52:53] [Server thread/INFO]: Preparing spawn area: 92%
-[22:52:54] [Server thread/INFO]: Done (18.785s)! For help, type "help" or "?"
-[22:56:09] [User Authenticator #1/INFO]: UUID of player The_Sera_Road is 2a77747b930b46d897db8ee7b9c33914
-[22:56:10] [Server thread/INFO]: The_Sera_Road[/25.37.224.235:25534] logged in with entity id 543 at (-176.31872723787603, 64.0, 269.4302687147903)
-[22:56:10] [Server thread/INFO]: The_Sera_Road joined the game
-[22:56:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2912ms behind, skipping 58 tick(s)
-[22:58:14] [User Authenticator #2/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
-[22:58:14] [Server thread/INFO]: daisysmasher[/25.14.144.175:49206] logged in with entity id 2171 at (-173.78633895272466, 64.0, 269.6926900603585)
-[22:58:14] [Server thread/INFO]: daisysmasher joined the game
-[22:58:24] [Server thread/INFO]: <daisysmasher> meeep
-[22:58:28] [Server thread/INFO]: <The_Sera_Road> hi baby :D
-[22:58:50] [Server thread/INFO]: <daisysmasher> what are you doing?
-[22:58:59] [Server thread/INFO]: <The_Sera_Road> coaaaaaaal
-[22:59:35] [Server thread/INFO]: <daisysmasher> i just heard a mine noise
-[22:59:38] [Server thread/INFO]: <The_Sera_Road> me too
-[22:59:48] [Server thread/INFO]: <daisysmasher> spooky
-[22:59:57] [Server thread/INFO]: <daisysmasher> shall we go to the mining operation?
-[22:59:58] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:00:54] [Server thread/INFO]: <The_Sera_Road> baby
-[23:01:00] [Server thread/INFO]: <daisysmasher> yah
-[23:01:00] [Server thread/INFO]: <The_Sera_Road> i want to put a track down
-[23:01:09] [Server thread/INFO]: <daisysmasher> where
-[23:01:14] [Server thread/INFO]: <daisysmasher> down here?
-[23:01:16] [Server thread/INFO]: <The_Sera_Road> going down the tunnel
-[23:01:19] [Server thread/INFO]: <daisysmasher> now?
-[23:01:24] [Server thread/INFO]: <The_Sera_Road> baby doesnt want?
-[23:01:28] [Server thread/INFO]: <daisysmasher> ookkk
-[23:01:34] [Server thread/INFO]: <daisysmasher> just 1 tunnel tho
-[23:01:34] [Server thread/INFO]: <The_Sera_Road> :D
-[23:01:38] [Server thread/INFO]: <The_Sera_Road> we build together?
-[23:01:41] [Server thread/INFO]: <daisysmasher> ok
-[23:01:48] [Server thread/INFO]: <daisysmasher> shall i start from the other end?
-[23:01:49] [Server thread/INFO]: <The_Sera_Road> ok
-[23:01:52] [Server thread/INFO]: <The_Sera_Road> ?
-[23:01:53] [Server thread/INFO]: <daisysmasher> what materials do we need
-[23:01:55] [Server thread/INFO]: <The_Sera_Road> oh
-[23:02:08] [Server thread/INFO]: <The_Sera_Road> well lets use the track hack
-[23:02:15] [Server thread/INFO]: <The_Sera_Road> to get a whole bunch of shit
-[23:02:18] [Server thread/INFO]: <daisysmasher> so we have to build that first
-[23:02:22] [Server thread/INFO]: <The_Sera_Road> and just lay it
-[23:02:24] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:02:27] [Server thread/INFO]: <daisysmasher> ughhh
-[23:02:28] [Server thread/INFO]: <daisysmasher> ok
-[23:02:33] [Server thread/INFO]: <The_Sera_Road> it should be quick
-[23:03:09] [Server thread/INFO]: <The_Sera_Road> im just going to look it up
-[23:03:11] [Server thread/INFO]: <daisysmasher> do you want me to help build?
-[23:04:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
-[23:05:47] [Server thread/INFO]: <The_Sera_Road> well once we get the rails we will have to lay them down
-[23:05:56] [Server thread/INFO]: <The_Sera_Road> does baby want to make a powered rail for us?
-[23:06:01] [Server thread/INFO]: <daisysmasher> ok
-[23:06:19] [Server thread/INFO]: <daisysmasher> how many powered rails do we need
-[23:06:21] [Server thread/INFO]: <daisysmasher> oh just the 1
-[23:06:26] [Server thread/INFO]: [The_Sera_Road: Given [Slimeball] * 1 to The_Sera_Road]
-[23:06:28] [Server thread/INFO]: [The_Sera_Road: Given [Slimeball] * 1 to The_Sera_Road]
-[23:06:31] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:07:32] [Server thread/INFO]: <The_Sera_Road> where should i put it?
-[23:07:56] [Server thread/INFO]: <The_Sera_Road> baby
-[23:08:00] [Server thread/INFO]: <daisysmasher> yeah
-[23:08:05] [Server thread/INFO]: <The_Sera_Road> where should i put it?
-[23:08:07] [Server thread/INFO]: <daisysmasher> oh
-[23:08:09] [Server thread/INFO]: <daisysmasher> um
-[23:08:14] [Server thread/INFO]: <daisysmasher> i want to put it in the mine
-[23:08:25] [Server thread/INFO]: <daisysmasher> but that might be too much of a pain
-[23:08:38] [Server thread/INFO]: <The_Sera_Road> puts in the mine!
-[23:08:39] [Server thread/INFO]: <daisysmasher> what about the temp base in the mountain?
-[23:10:19] [Server thread/INFO]: <daisysmasher> ned help?
-[23:10:25] [Server thread/INFO]: <The_Sera_Road> not yet
-[23:10:36] [Server thread/INFO]: <The_Sera_Road> :D
-[23:10:41] [Server thread/INFO]: <daisysmasher> just say the word
-[23:10:48] [Server thread/INFO]: <daisysmasher> i made the powered rails btw
-[23:10:48] [Server thread/INFO]: <The_Sera_Road> ok :)
-[23:10:52] [Server thread/INFO]: <The_Sera_Road> yay :D
-[23:10:53] [Server thread/INFO]: <daisysmasher> that was most of our gold
-[23:13:00] [Server thread/INFO]: <daisysmasher> woobwoobwoobwoobwoob!!!
-[23:13:05] [Server thread/INFO]: <The_Sera_Road> hahaha
-[23:13:12] [Server thread/INFO]: <daisysmasher> i will make a cart
-[23:13:19] [Server thread/INFO]: <The_Sera_Road> we have some
-[23:13:25] [Server thread/INFO]: <daisysmasher> ok
-[23:13:30] [Server thread/INFO]: <daisysmasher> hwere are they?
-[23:13:35] [Server thread/INFO]: <The_Sera_Road> idk :D
-[23:13:37] [Server thread/INFO]: <daisysmasher> found
-[23:13:46] [Server thread/INFO]: <daisysmasher> should we just constantly have a cart there?
-[23:14:12] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:15:32] [Server thread/INFO]: daisysmasher has just earned the achievement [Monster Hunter]
-[23:17:36] [Server thread/INFO]: <The_Sera_Road> ok baby
-[23:17:47] [Server thread/INFO]: <daisysmasher> yes?
-[23:17:53] [Server thread/INFO]: <The_Sera_Road> it is done
-[23:18:35] [Server thread/INFO]: <daisysmasher> wow
-[23:18:39] [Server thread/INFO]: <daisysmasher> baby has put it to work
-[23:18:48] [Server thread/INFO]: <The_Sera_Road> yes :D
-[23:19:31] [Server thread/INFO]: <The_Sera_Road> ready?
-[23:19:32] [Server thread/INFO]: <daisysmasher> now what
-[23:19:40] [Server thread/INFO]: <daisysmasher> is ready for something :D
-[23:19:40] [Server thread/INFO]: <The_Sera_Road> now we place the rails
-[23:20:34] [Server thread/INFO]: <The_Sera_Road> shit we need a couple of regular rails
-[23:20:36] [Server thread/INFO]: <daisysmasher> just powered all the way?
-[23:20:46] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:21:50] [Server thread/INFO]: <daisysmasher> now i lay down the powered ones?
-[23:21:57] [Server thread/INFO]: <The_Sera_Road> yeah
-[23:22:28] [Server thread/INFO]: <daisysmasher> is out
-[23:23:45] [Server thread/INFO]: <daisysmasher> is out again
-[23:24:06] [Server thread/INFO]: <The_Sera_Road> save one
-[23:24:37] [Server thread/INFO]: <daisysmasher> i'm out again
-[23:24:42] [Server thread/INFO]: <daisysmasher> but we only need like 5 more
-[23:24:49] [Server thread/INFO]: <The_Sera_Road> lol ok
-[23:24:52] [Server thread/INFO]: <daisysmasher> saved 1
-[23:24:53] [Server thread/INFO]: <The_Sera_Road> go make some more
-[23:25:00] [Server thread/INFO]: <daisysmasher> where do i put it
-[23:25:58] [Server thread/INFO]: <The_Sera_Road> here
-[23:26:08] [Server thread/INFO]: <The_Sera_Road> here
-[23:26:14] [Server thread/INFO]: <daisysmasher> it got lost
-[23:26:22] [Server thread/INFO]: <The_Sera_Road> ?
-[23:26:40] [Server thread/INFO]: <daisysmasher> i put it down on the wrong block
-[23:26:46] [Server thread/INFO]: <daisysmasher> and then it just disappeared
-[23:27:00] [Server thread/INFO]: <The_Sera_Road> its in your hand
-[23:27:06] [Server thread/INFO]: <daisysmasher> really?
-[23:27:48] [Server thread/INFO]: <The_Sera_Road> stand on top of it
-[23:27:56] [Server thread/INFO]: <The_Sera_Road> and hold the right mouse button
-[23:28:39] [Server thread/INFO]: <daisysmasher> what a racket
-[23:28:41] [Server thread/INFO]: <The_Sera_Road> good?
-[23:31:40] [Server thread/INFO]: <The_Sera_Road> baby tries cart!
-[23:32:00] [Server thread/INFO]: <daisysmasher> wheee
-[23:32:04] [Server thread/INFO]: <The_Sera_Road> :D
-[23:32:06] [Server thread/INFO]: <daisysmasher> long ride
-[23:32:11] [Server thread/INFO]: <daisysmasher> i found a diamond
-[23:32:20] [Server thread/INFO]: <The_Sera_Road> i see ot
-[23:32:31] [Server thread/INFO]: <daisysmasher> and theres a cave down there
-[23:33:18] [Server thread/INFO]: <The_Sera_Road> babys diamond
-[23:33:33] [Server thread/INFO]: <daisysmasher> :D
-[23:33:34] [Server thread/INFO]: <The_Sera_Road> :D
-[23:33:37] [Server thread/INFO]: <daisysmasher> now we put them away?
-[23:33:41] [Server thread/INFO]: <The_Sera_Road> yah
-[23:33:53] [Server thread/INFO]: <daisysmasher> hehe
-[23:33:56] [Server thread/INFO]: <The_Sera_Road> wiw
-[23:33:59] [Server thread/INFO]: <The_Sera_Road> wow
-[23:34:45] [Server thread/INFO]: <daisysmasher> do you have wood?
-[23:35:18] [Server thread/INFO]: <daisysmasher> nvm
-[23:35:18] [Server thread/INFO]: <The_Sera_Road> not really
-[23:35:23] [Server thread/INFO]: <daisysmasher> i made some more torches
-[23:35:27] [Server thread/INFO]: <daisysmasher> WHAT
-[23:35:37] [Server thread/INFO]: <daisysmasher> baby!!!
-[23:35:38] [Server thread/INFO]: <The_Sera_Road> hahaha
-[23:35:56] [Server thread/INFO]: <daisysmasher> i hate you
-[23:35:59] [Server thread/INFO]: <The_Sera_Road> hahahaha
-[23:36:19] [Server thread/INFO]: <daisysmasher> :(
-[23:36:22] [Server thread/INFO]: <The_Sera_Road> awww
-[23:36:30] [Server thread/INFO]: <daisysmasher> where are you going
-[23:36:34] [Server thread/INFO]: <The_Sera_Road> im here
-[23:36:39] [Server thread/INFO]: <The_Sera_Road> i have to drop stuff
-[23:36:42] [Server thread/INFO]: <daisysmasher> oh ok
-[23:36:52] [Server thread/INFO]: <daisysmasher> i will go back then
-[23:37:07] [Server thread/INFO]: <The_Sera_Road> ok send the cart back when youre on that side
-[23:37:21] [Server thread/INFO]: <daisysmasher> you can go fuck yourself
-[23:37:28] [Server thread/INFO]: <The_Sera_Road> :/
-[23:38:30] [Server thread/INFO]: <The_Sera_Road> i think im going to sleep soon baby
-[23:38:37] [Server thread/INFO]: <daisysmasher> then should i come back?
-[23:38:42] [Server thread/INFO]: <daisysmasher> it's not that late >.>
-[23:38:57] [Server thread/INFO]: <The_Sera_Road> for baby :/
-[23:39:00] [Server thread/INFO]: <The_Sera_Road> come back
-[23:39:07] [Server thread/INFO]: <daisysmasher> :(
-[23:39:10] [Server thread/INFO]: <The_Sera_Road> i have sent the cart
-[23:39:16] [Server thread/INFO]: <daisysmasher> we didn't go exploring
-[23:39:19] [Server thread/INFO]: <daisysmasher> i had my own cart
-[23:39:30] [Server thread/INFO]: <daisysmasher> fuck
-[23:39:35] [Server thread/INFO]: <The_Sera_Road> oh shit
-[23:39:40] [Server thread/INFO]: <The_Sera_Road> uhhh
-[23:39:49] [Server thread/INFO]: <The_Sera_Road> i may have pushed the other cart
-[23:39:51] [Server thread/INFO]: <daisysmasher> get rid of that cart
-[23:40:14] [Server thread/INFO]: <daisysmasher> i didn't pick up the cart
-[23:40:28] [Server thread/INFO]: <daisysmasher> i don't care
-[23:41:18] [Server thread/INFO]: <daisysmasher> i hate you
-[23:41:27] [Server thread/INFO]: <daisysmasher> destroy the cart when you get off
-[23:41:34] [Server thread/INFO]: <The_Sera_Road> i dont have one
-[23:41:48] [Server thread/INFO]: <daisysmasher> you did
-[23:41:58] [Server thread/INFO]: <The_Sera_Road> its gone the other way
-[23:42:44] [Server thread/INFO]: <The_Sera_Road> thanks baby
-[23:42:50] [Server thread/INFO]: <The_Sera_Road> wheres baby going?
-[23:43:04] [Server thread/INFO]: <daisysmasher> i thought we were going to bed
-[23:43:14] [Server thread/INFO]: <daisysmasher> are we not?
-[23:43:27] [Server thread/INFO]: <The_Sera_Road> yeah i was trying to get back
-[23:43:52] [Server thread/INFO]: <daisysmasher> i got disoriented
-[23:44:06] [Server thread/INFO]: <The_Sera_Road> where are you?
-[23:44:25] [Server thread/INFO]: <The_Sera_Road> hi :)
-[23:44:28] [Server thread/INFO]: <daisysmasher> hi
-[23:44:35] [Server thread/INFO]: <daisysmasher> so somehow we had 3 carts
-[23:44:37] [Server thread/INFO]: <The_Sera_Road> loves baby!
-[23:44:42] [Server thread/INFO]: <daisysmasher> loves
-[23:44:44] [Server thread/INFO]: <daisysmasher> is sad
-[23:44:51] [Server thread/INFO]: <daisysmasher> wanted to explore
-[23:44:52] [Server thread/INFO]: <The_Sera_Road> we have fun cart adventures :)
-[23:44:55] [Server thread/INFO]: <The_Sera_Road> aww
-[23:45:02] [Server thread/INFO]: <The_Sera_Road> next time we will
-[23:45:11] [Server thread/INFO]: <daisysmasher> when will next time be?
-[23:45:18] [Server thread/INFO]: <The_Sera_Road> sat or sunday
-[23:45:19] [Server thread/INFO]: <daisysmasher> a year from now? :O
-[23:45:21] [Server thread/INFO]: <daisysmasher> ok
-[23:45:24] [Server thread/INFO]: <daisysmasher> :D
-[23:46:02] [Server thread/INFO]: daisysmasher lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:46:02] [Server thread/INFO]: daisysmasher left the game
-[23:46:03] [Server thread/INFO]: The_Sera_Road lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:46:03] [Server thread/INFO]: The_Sera_Road left the game
-[23:46:12] [Server thread/INFO]: Stopping the server
-[23:46:12] [Server thread/INFO]: Stopping server
-[23:46:12] [Server thread/INFO]: Saving players
-[23:46:12] [Server thread/INFO]: Saving worlds
-[23:46:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:46:12] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:46:12] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:54:36] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[22:54:36] [Server thread/INFO]: Loading properties
+[22:54:36] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:36] [Server thread/INFO]: Generating keypair
+[22:54:37] [Server thread/INFO]: Starting Minecraft server on 25.37.224.235:25565
+[22:54:37] [Server thread/INFO]: Preparing level "world"
+[22:54:38] [Server thread/INFO]: Preparing start region for level 0
+[22:54:39] [Server thread/INFO]: Preparing spawn area: 24%
+[22:54:40] [Server thread/INFO]: Preparing spawn area: 92%
+[22:54:40] [Server thread/INFO]: Done (2.344s)! For help, type "help" or "?"
+[22:57:28] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
+[22:57:28] [Server thread/INFO]: daisysmasher[/25.14.144.175:55817] logged in with entity id 532 at (-173.76829735565846, 64.0, 269.6385809275199)
+[22:57:28] [Server thread/INFO]: daisysmasher joined the game
+[23:02:25] [User Authenticator #2/INFO]: UUID of player The_Sera_Road is 2a77747b930b46d897db8ee7b9c33914
+[23:02:25] [Server thread/INFO]: The_Sera_Road[/25.37.224.235:30625] logged in with entity id 5437 at (-175.71884318502418, 64.0, 269.20919166990313)
+[23:02:25] [Server thread/INFO]: The_Sera_Road joined the game
+[23:02:35] [Server thread/INFO]: <The_Sera_Road> minecraft was being slow
+[23:02:36] [Server thread/INFO]: <daisysmasher> hey baby
+[23:02:47] [Server thread/INFO]: <The_Sera_Road> hi :D
+[23:02:58] [Server thread/INFO]: <daisysmasher> i will lick you all over once i am done harvesting
+[23:03:08] [Server thread/INFO]: <The_Sera_Road> hahah
+[23:03:45] [Server thread/INFO]: <daisysmasher> where are you
+[23:04:12] [Server thread/INFO]: <daisysmasher> making the diamond pick?
+[23:04:17] [Server thread/INFO]: <The_Sera_Road> yeah
+[23:05:02] [Server thread/INFO]: <The_Sera_Road> is baby ready?
+[23:05:21] [Server thread/INFO]: <daisysmasher> just about
+[23:06:45] [Server thread/INFO]: <daisysmasher> BABY TOOK MY PICK
+[23:06:51] [Server thread/INFO]: <daisysmasher> is not angry
+[23:06:53] [Server thread/INFO]: <daisysmasher> baby can have
+[23:06:58] [Server thread/INFO]: <daisysmasher> aww tw
+[23:06:59] [Server thread/INFO]: <daisysmasher> ty
+[23:07:02] [Server thread/INFO]: <The_Sera_Road> :)
+[23:07:45] [Server thread/INFO]: <The_Sera_Road> baby first
+[23:08:00] [Server thread/INFO]: <The_Sera_Road> send it back when youre on the other side
+[23:08:12] [Server thread/INFO]: <daisysmasher> sent
+[23:09:47] [Server thread/INFO]: <daisysmasher> is disappointed
+[23:10:00] [Server thread/INFO]: <daisysmasher> bucket :(
+[23:11:42] [Server thread/INFO]: <daisysmasher> sry
+[23:12:08] [Server thread/INFO]: <daisysmasher> nothing
+[23:12:15] [Server thread/INFO]: <The_Sera_Road> :/ ok
+[23:12:51] [Server thread/INFO]: <The_Sera_Road> brb
+[23:14:22] [Server thread/INFO]: <The_Sera_Road> back
+[23:14:24] [Server thread/INFO]: <daisysmasher> hi
+[23:14:28] [Server thread/INFO]: <daisysmasher> coal vein
+[23:14:28] [Server thread/INFO]: <The_Sera_Road> hi :)
+[23:14:47] [Server thread/INFO]: <daisysmasher> gold!!
+[23:16:06] [Server thread/INFO]: <The_Sera_Road> asshole
+[23:17:42] [Server thread/INFO]: <daisysmasher> cleaned out
+[23:17:56] [Server thread/INFO]: <daisysmasher> i guess thats it
+[23:20:12] [Server thread/INFO]: <daisysmasher> ty!!!
+[23:20:20] [Server thread/INFO]: <The_Sera_Road> poor baby
+[23:20:23] [Server thread/INFO]: <daisysmasher> eeeep
+[23:20:33] [Server thread/INFO]: <daisysmasher> was terrified
+[23:21:07] [Server thread/INFO]: <daisysmasher> out of coble xD
+[23:22:27] [Server thread/INFO]: <daisysmasher> how much obsidian do we need?
+[23:22:31] [Server thread/INFO]: <daisysmasher> i have 4
+[23:22:39] [Server thread/INFO]: <daisysmasher> 5
+[23:22:44] [Server thread/INFO]: <The_Sera_Road> i have 7
+[23:22:52] [Server thread/INFO]: <The_Sera_Road> id say we should get
+[23:23:03] [Server thread/INFO]: <daisysmasher> we could come back
+[23:23:05] [Server thread/INFO]: <The_Sera_Road> 10+4
+[23:23:10] [Server thread/INFO]: <The_Sera_Road> +2
+[23:24:05] [Server thread/INFO]: <daisysmasher> got
+[23:24:11] [Server thread/INFO]: <The_Sera_Road> :D
+[23:24:34] [Server thread/INFO]: <The_Sera_Road> whoops
+[23:24:44] [Server thread/INFO]: <The_Sera_Road> i lost the water
+[23:25:13] [Server thread/INFO]: <The_Sera_Road> how many does baby have?
+[23:25:15] [Server thread/INFO]: <daisysmasher> you don't really need the water now
+[23:25:19] [Server thread/INFO]: <daisysmasher> 7
+[23:25:22] [Server thread/INFO]: <The_Sera_Road> ok
+[23:25:24] [Server thread/INFO]: <The_Sera_Road> were good
+[23:25:33] [Server thread/INFO]: <daisysmasher> we leave :D
+[23:26:13] [Server thread/INFO]: <daisysmasher> baby?
+[23:26:17] [Server thread/INFO]: <daisysmasher> there is a cave this way
+[23:26:32] [Server thread/INFO]: <The_Sera_Road> where is baby?
+[23:27:34] [Server thread/INFO]: <daisysmasher> nothing
+[23:27:36] [Server thread/INFO]: <daisysmasher> some coal
+[23:29:38] [Server thread/INFO]: <daisysmasher> meep
+[23:29:47] [Server thread/INFO]: <daisysmasher> i couldve sworn i saw a dark area
+[23:30:41] [Server thread/INFO]: <daisysmasher> enderman?
+[23:30:51] [Server thread/INFO]: <The_Sera_Road> where?
+[23:30:56] [Server thread/INFO]: <daisysmasher> i heard the noise
+[23:30:58] [Server thread/INFO]: <daisysmasher> did not see
+[23:31:12] [Server thread/INFO]: <The_Sera_Road> ok
+[23:31:17] [Server thread/INFO]: <daisysmasher> now what
+[23:31:18] [Server thread/INFO]: <The_Sera_Road> we cart back?
+[23:31:22] [Server thread/INFO]: <daisysmasher> k
+[23:31:50] [Server thread/INFO]: <daisysmasher> is running
+[23:31:53] [Server thread/INFO]: <daisysmasher> no need to send cart
+[23:32:04] [Server thread/INFO]: <The_Sera_Road> aww
+[23:34:10] [Server thread/INFO]: <The_Sera_Road> we need cows
+[23:34:17] [Server thread/INFO]: <daisysmasher> <3
+[23:34:20] [Server thread/INFO]: <daisysmasher> ok darling
+[23:35:07] [Server thread/INFO]: <daisysmasher> so!
+[23:35:13] [Server thread/INFO]: <The_Sera_Road> cowsssssssss
+[23:36:06] [Server thread/INFO]: <The_Sera_Road> meep
+[23:36:12] [Server thread/INFO]: <daisysmasher> wanna get out of the ravine?
+[23:37:28] [Server thread/INFO]: <The_Sera_Road> baby is a fish
+[23:37:35] [Server thread/INFO]: <daisysmasher> is
+[23:38:02] [Server thread/INFO]: <daisysmasher> did you bring wheat
+[23:38:06] [Server thread/INFO]: <The_Sera_Road> yes
+[23:40:15] [Server thread/INFO]: The_Sera_Road has just earned the achievement [Cow Tipper]
+[23:40:43] [Server thread/INFO]: The_Sera_Road has just earned the achievement [Repopulation]
+[23:40:57] [Server thread/INFO]: <The_Sera_Road> tthey dont care
+[23:41:00] [Server thread/INFO]: <daisysmasher> that solved nothing
+[23:42:14] [Server thread/INFO]: <daisysmasher> give me a wheat
+[23:43:05] [Server thread/INFO]: <The_Sera_Road> we go
+[23:44:01] [Server thread/INFO]: <daisysmasher> i'm sorry
+[23:48:21] [Server thread/INFO]: <The_Sera_Road> i hate cows
+[23:48:25] [Server thread/INFO]: <daisysmasher> me too
+[23:50:43] [Server thread/INFO]: <The_Sera_Road> are you sure its this way?
+[23:50:55] [Server thread/INFO]: <daisysmasher> no
+[23:51:01] [Server thread/INFO]: <The_Sera_Road> ok wait
+[23:51:04] [Server thread/INFO]: <daisysmasher> i don't think this is right
+[23:51:58] [Server thread/INFO]: <daisysmasher> we almost lost the cows
+[23:52:05] [Server thread/INFO]: <daisysmasher> do you know which way?
+[23:52:30] [Server thread/INFO]: <The_Sera_Road> no
+[23:52:35] [Server thread/INFO]: <The_Sera_Road> were totally lost
+[23:52:48] [Server thread/INFO]: <daisysmasher> i have a feeling its past the snowy hill
+[23:53:22] [Server thread/INFO]: <daisysmasher> i'm bringing the cows back into the forest
+[23:54:00] [Server thread/INFO]: <The_Sera_Road> baby
+[23:54:04] [Server thread/INFO]: <The_Sera_Road> i have to stop
+[23:54:07] [Server thread/INFO]: <daisysmasher> oh
+[23:54:13] [Server thread/INFO]: <The_Sera_Road> my eyes are tearing up
+[23:54:20] [Server thread/INFO]: <daisysmasher> stop playing entirely?
+[23:54:24] [Server thread/INFO]: <daisysmasher> do you want to tp back?
+[23:54:26] [Server thread/INFO]: <The_Sera_Road> yeag
+[23:54:35] [Server thread/INFO]: <The_Sera_Road> no we can just quit
+[23:54:47] [Server thread/INFO]: <daisysmasher> but then we'll be here again
+[23:54:48] [Server thread/INFO]: <The_Sera_Road> well find our way back tomorrow
+[23:54:51] [Server thread/INFO]: <daisysmasher> ok
+[23:54:57] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:54:57] [Server thread/INFO]: daisysmasher left the game
+[23:55:00] [Server thread/INFO]: The_Sera_Road lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:55:00] [Server thread/INFO]: The_Sera_Road left the game
+[23:55:07] [Server thread/INFO]: Stopping the server
+[23:55:07] [Server thread/INFO]: Stopping server
+[23:55:07] [Server thread/INFO]: Saving players
+[23:55:07] [Server thread/INFO]: Saving worlds
+[23:55:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:55:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:55:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:55:08] [Server Shutdown Thread/INFO]: Stopping server
