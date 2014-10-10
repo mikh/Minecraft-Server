@@ -1,15 +1,13 @@
-[00:00:02] [Server thread/INFO]: The_Sera_Road lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:00:02] [Server thread/INFO]: The_Sera_Road left the game
-[00:01:04] [Server thread/INFO]: Stopping the server
-[00:01:04] [Server thread/INFO]: Stopping server
-[00:01:04] [Server thread/INFO]: Saving players
-[00:01:04] [Server thread/INFO]: Saving worlds
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[00:01:05] [Server Shutdown Thread/INFO]: Stopping server
-[00:01:05] [Server Shutdown Thread/INFO]: Saving players
-[00:01:05] [Server Shutdown Thread/INFO]: Saving worlds
-[00:01:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:01:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
-[00:01:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
+[00:12:41] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[00:12:41] [Server thread/INFO]: Loading properties
+[00:12:41] [Server thread/INFO]: Default game type: SURVIVAL
+[00:12:41] [Server thread/INFO]: Generating keypair
+[00:12:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:12:41] [Server thread/INFO]: Preparing level "world"
+[00:12:41] [Server thread/INFO]: Preparing start region for level 0
+[00:12:42] [Server thread/INFO]: Done (1.009s)! For help, type "help" or "?"
+[00:13:08] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
+[00:13:08] [Server thread/INFO]: daisysmasher[/127.0.0.1:3250] logged in with entity id 566 at (-163.5, 57.0, 258.5)
+[00:13:08] [Server thread/INFO]: daisysmasher joined the game
+[00:38:33] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:38:33] [Server thread/INFO]: daisysmasher left the game
