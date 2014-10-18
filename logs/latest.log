@@ -1,13 +1,73 @@
-[00:12:41] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[00:12:41] [Server thread/INFO]: Loading properties
-[00:12:41] [Server thread/INFO]: Default game type: SURVIVAL
-[00:12:41] [Server thread/INFO]: Generating keypair
-[00:12:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:12:41] [Server thread/INFO]: Preparing level "world"
-[00:12:41] [Server thread/INFO]: Preparing start region for level 0
-[00:12:42] [Server thread/INFO]: Done (1.009s)! For help, type "help" or "?"
-[00:13:08] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
-[00:13:08] [Server thread/INFO]: daisysmasher[/127.0.0.1:3250] logged in with entity id 566 at (-163.5, 57.0, 258.5)
-[00:13:08] [Server thread/INFO]: daisysmasher joined the game
-[00:38:33] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:38:33] [Server thread/INFO]: daisysmasher left the game
+[23:12:28] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[23:12:28] [Server thread/INFO]: Loading properties
+[23:12:28] [Server thread/INFO]: Default game type: SURVIVAL
+[23:12:28] [Server thread/INFO]: Generating keypair
+[23:12:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:12:29] [Server thread/INFO]: Preparing level "world"
+[23:12:29] [Server thread/INFO]: Preparing start region for level 0
+[23:12:30] [Server thread/INFO]: Preparing spawn area: 89%
+[23:12:30] [Server thread/INFO]: Done (1.128s)! For help, type "help" or "?"
+[23:12:50] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
+[23:12:50] [Server thread/INFO]: daisysmasher[/127.0.0.1:5366] logged in with entity id 550 at (-173.9150643837037, 64.0, 269.40234285044255)
+[23:12:50] [Server thread/INFO]: daisysmasher joined the game
+[23:27:25] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:27:25] [Server thread/INFO]: daisysmasher left the game
+[23:27:32] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[23:27:36] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[23:27:41] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[23:27:41] [Server thread/INFO]: /achievement give <stat_name> [player]
+[23:27:41] [Server thread/INFO]: /ban <name> [reason ...]
+[23:27:41] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[23:27:41] [Server thread/INFO]: /banlist [ips|players]
+[23:27:41] [Server thread/INFO]: /clear <player> [item] [data]
+[23:27:41] [Server thread/INFO]: /debug <start|stop>
+[23:27:41] [Server thread/INFO]: /defaultgamemode <mode>
+[23:27:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[23:27:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[23:28:01] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[23:28:01] [Server thread/INFO]: /achievement give <stat_name> [player]
+[23:28:02] [Server thread/INFO]: /ban <name> [reason ...]
+[23:28:02] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[23:28:02] [Server thread/INFO]: /banlist [ips|players]
+[23:28:02] [Server thread/INFO]: /clear <player> [item] [data]
+[23:28:02] [Server thread/INFO]: /debug <start|stop>
+[23:28:02] [Server thread/INFO]: /defaultgamemode <mode>
+[23:28:13] [Server thread/INFO]: --- Showing help page 2 of 7 (/help <page>) ---
+[23:28:13] [Server thread/INFO]: /deop <player>
+[23:28:13] [Server thread/INFO]: /difficulty <new difficulty>
+[23:28:13] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[23:28:13] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[23:28:13] [Server thread/INFO]: /gamemode <mode> [player]
+[23:28:13] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[23:28:13] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[23:28:23] [Server thread/INFO]: --- Showing help page 3 of 7 (/help <page>) ---
+[23:28:23] [Server thread/INFO]: /help [page|command name]
+[23:28:23] [Server thread/INFO]: /kick <player> [reason ...]
+[23:28:23] [Server thread/INFO]: /kill
+[23:28:23] [Server thread/INFO]: /list
+[23:28:23] [Server thread/INFO]: /me <action ...>
+[23:28:23] [Server thread/INFO]: /op <player>
+[23:28:23] [Server thread/INFO]: /pardon <name>
+[23:28:31] [Server thread/INFO]: --- Showing help page 4 of 7 (/help <page>) ---
+[23:28:31] [Server thread/INFO]: /pardon-ip <address>
+[23:28:31] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[23:28:31] [Server thread/INFO]: /save-all
+[23:28:31] [Server thread/INFO]: /save-off
+[23:28:31] [Server thread/INFO]: /save-on
+[23:28:31] [Server thread/INFO]: /say <message ...>
+[23:28:31] [Server thread/INFO]: /scoreboard <objectives|players|teams>
+[23:28:40] [Server thread/INFO]: --- Showing help page 5 of 7 (/help <page>) ---
+[23:28:40] [Server thread/INFO]: /seed
+[23:28:40] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[23:28:40] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[23:28:40] [Server thread/INFO]: /setworldspawn OR /setworldspawn <x> <y> <z>
+[23:28:40] [Server thread/INFO]: /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+[23:28:40] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[23:28:40] [Server thread/INFO]: /stop
+[23:28:43] [Server thread/INFO]: Stopping the server
+[23:28:43] [Server thread/INFO]: Stopping server
+[23:28:43] [Server thread/INFO]: Saving players
+[23:28:43] [Server thread/INFO]: Saving worlds
+[23:28:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:28:43] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:28:43] [Server thread/INFO]: Saving chunks for level 'world'/The End
