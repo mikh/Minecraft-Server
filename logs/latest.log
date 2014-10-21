@@ -1,37 +1,137 @@
-[17:34:28] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[17:34:28] [Server thread/INFO]: Loading properties
-[17:34:28] [Server thread/INFO]: Default game type: SURVIVAL
-[17:34:28] [Server thread/INFO]: Generating keypair
-[17:34:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:34:29] [Server thread/INFO]: Preparing level "world"
-[17:34:29] [Server thread/INFO]: Preparing start region for level 0
-[17:34:30] [Server thread/INFO]: Preparing spawn area: 89%
-[17:34:30] [Server thread/INFO]: Done (1.119s)! For help, type "help" or "?"
-[17:34:49] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
-[17:34:49] [Server thread/INFO]: daisysmasher[/127.0.0.1:1992] logged in with entity id 535 at (-175.44994371841238, 64.0, 269.34114463641095)
-[17:34:49] [Server thread/INFO]: daisysmasher joined the game
-[17:35:04] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:35:04] [Server thread/INFO]: daisysmasher left the game
-[17:55:54] [User Authenticator #2/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
-[17:55:54] [Server thread/INFO]: daisysmasher[/127.0.0.1:2698] logged in with entity id 586 at (-176.86939465849954, 64.0, 269.5178136300708)
-[17:55:54] [Server thread/INFO]: daisysmasher joined the game
-[18:18:41] [Server thread/WARN]: daisysmasher moved wrongly!
-[18:59:05] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:59:05] [Server thread/INFO]: daisysmasher left the game
-[18:59:15] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:59:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:59:34] [Server thread/INFO]: --- Showing help page 5 of 7 (/help <page>) ---
-[18:59:34] [Server thread/INFO]: /seed
-[18:59:34] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
-[18:59:34] [Server thread/INFO]: /setidletimeout <Minutes until kick>
-[18:59:34] [Server thread/INFO]: /setworldspawn OR /setworldspawn <x> <y> <z>
-[18:59:34] [Server thread/INFO]: /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
-[18:59:34] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
-[18:59:34] [Server thread/INFO]: /stop
-[18:59:37] [Server thread/INFO]: Stopping the server
-[18:59:37] [Server thread/INFO]: Stopping server
-[18:59:37] [Server thread/INFO]: Saving players
-[18:59:37] [Server thread/INFO]: Saving worlds
-[18:59:37] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:59:37] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[18:59:37] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:48:48] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[22:48:48] [Server thread/INFO]: Loading properties
+[22:48:48] [Server thread/INFO]: Default game type: SURVIVAL
+[22:48:48] [Server thread/INFO]: Generating keypair
+[22:48:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:48:50] [Server thread/INFO]: Preparing level "world"
+[22:48:50] [Server thread/INFO]: Preparing start region for level 0
+[22:48:51] [Server thread/INFO]: Preparing spawn area: 33%
+[22:48:52] [Server thread/INFO]: Done (2.053s)! For help, type "help" or "?"
+[22:48:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[22:48:56] [User Authenticator #1/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
+[22:48:56] [Server thread/INFO]: daisysmasher[/25.116.38.47:5603] logged in with entity id 564 at (-177.6503853283634, 64.0, 269.4280227209434)
+[22:48:56] [Server thread/INFO]: daisysmasher joined the game
+[22:50:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3067ms behind, skipping 61 tick(s)
+[22:50:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2784ms behind, skipping 55 tick(s)
+[22:50:48] [User Authenticator #2/INFO]: UUID of player The_Sera_Road is 2a77747b930b46d897db8ee7b9c33914
+[22:50:48] [Server thread/INFO]: The_Sera_Road[/25.37.224.235:50618] logged in with entity id 2108 at (-173.61731488120594, 64.0, 269.30789317842573)
+[22:50:48] [Server thread/INFO]: The_Sera_Road joined the game
+[22:50:53] [Server thread/INFO]: <daisysmasher> BABY
+[22:51:01] [Server thread/INFO]: <daisysmasher> lets go to the desert
+[22:51:21] [Server thread/INFO]: <The_Sera_Road> where is that?
+[22:51:29] [Server thread/INFO]: <daisysmasher> idk
+[22:51:32] [Server thread/INFO]: <daisysmasher> but you have a map
+[22:51:35] [Server thread/INFO]: <daisysmasher> so i will follow baby
+[22:51:38] [Server thread/INFO]: <The_Sera_Road> oh we have to find one?
+[22:51:50] [Server thread/INFO]: <daisysmasher> yeah
+[22:51:55] [Server thread/INFO]: <daisysmasher> there is none aroud
+[22:51:58] [Server thread/INFO]: <The_Sera_Road> ok
+[22:52:06] [Server thread/INFO]: <The_Sera_Road> the map only shows places ive been
+[22:55:52] [Server thread/INFO]: <daisysmasher> bab gets tulips?
+[22:55:55] [Server thread/INFO]: <The_Sera_Road> :D
+[22:56:12] [Server thread/INFO]: <daisysmasher> i think we could not be further from a desert
+[22:56:38] [Server thread/INFO]: <The_Sera_Road> yeah
+[22:56:41] [Server thread/INFO]: <The_Sera_Road> ;ets try north
+[22:56:59] [Server thread/INFO]: <The_Sera_Road> horse!
+[22:57:18] [Server thread/INFO]: <daisysmasher> theres another
+[22:57:34] [Server thread/INFO]: <daisysmasher> wjere are yuou
+[22:57:51] [Server thread/INFO]: <The_Sera_Road> meeps!
+[22:59:27] [Server thread/INFO]: <daisysmasher> do you need food?
+[22:59:31] [Server thread/INFO]: <The_Sera_Road> woops
+[23:02:32] [Server thread/INFO]: <The_Sera_Road> baby ok?
+[23:02:40] [Server thread/INFO]: <daisysmasher> ye
+[23:03:07] [Server thread/INFO]: <daisysmasher> whoa
+[23:03:21] [Server thread/INFO]: <The_Sera_Road> fall back?
+[23:03:26] [Server thread/INFO]: <daisysmasher> k
+[23:09:06] [Server thread/INFO]: <daisysmasher> was tjat ,e
+[23:09:08] [Server thread/INFO]: <daisysmasher> that me?
+[23:09:12] [Server thread/INFO]: <The_Sera_Road> idk
+[23:09:17] [Server thread/INFO]: <The_Sera_Road> i heard it too
+[23:09:27] [Server thread/INFO]: <daisysmasher> was scared
+[23:09:29] [Server thread/INFO]: <daisysmasher> now what
+[23:09:53] [Server thread/INFO]: <The_Sera_Road> we wait for daylight
+[23:09:59] [Server thread/INFO]: <daisysmasher> daylight!
+[23:10:34] [Server thread/INFO]: <daisysmasher> now what
+[23:10:47] [Server thread/INFO]: <The_Sera_Road> keep moving?
+[23:13:33] [Server thread/INFO]: <daisysmasher> idk if our library is worth it
+[23:14:33] [Server thread/INFO]: <The_Sera_Road> weve come so far
+[23:15:16] [Server thread/INFO]: <daisysmasher> ty
+[23:18:05] [Server thread/INFO]: <The_Sera_Road> :(
+[23:18:10] [Server thread/INFO]: <daisysmasher> whas wrong
+[23:18:20] [Server thread/INFO]: <The_Sera_Road> did not get a faithful dog companion
+[23:18:48] [Server thread/INFO]: <daisysmasher> baby
+[23:18:51] [Server thread/INFO]: <daisysmasher> third dog
+[23:18:57] [Server thread/INFO]: <The_Sera_Road> no more bones
+[23:19:01] [Server thread/INFO]: <daisysmasher> :(
+[23:19:13] [Server thread/INFO]: <daisysmasher> baby hacks bone
+[23:19:22] [Server thread/INFO]: <The_Sera_Road> do you want me to look from the air for a desert?
+[23:19:27] [Server thread/INFO]: <daisysmasher> sure
+[23:19:31] [Server thread/INFO]: <daisysmasher> got enough dirt?
+[23:19:43] [Server thread/INFO]: [The_Sera_Road: Given [Bone] * 4 to The_Sera_Road]
+[23:20:06] [Server thread/INFO]: <daisysmasher> :D
+[23:20:12] [Server thread/INFO]: [The_Sera_Road: Set own game mode to Survival Mode]
+[23:20:13] [Server thread/INFO]: <daisysmasher> baby gets puppy
+[23:20:21] [Server thread/INFO]: [The_Sera_Road: Set own game mode to Creative Mode]
+[23:23:45] [Server thread/INFO]: <daisysmasher> wher eare you'
+[23:23:55] [Server thread/INFO]: <The_Sera_Road> searching
+[23:24:57] [Server thread/INFO]: <daisysmasher> something about dogs in minecraft makes me so happy
+[23:26:09] [Server thread/INFO]: [The_Sera_Road: Set own game mode to Survival Mode]
+[23:26:13] [Server thread/INFO]: <The_Sera_Road> yeah :)
+[23:26:13] [Server thread/INFO]: <daisysmasher> do you have dog food
+[23:26:17] [Server thread/INFO]: <The_Sera_Road> doggys :)
+[23:26:17] [Server thread/INFO]: <daisysmasher> has 9
+[23:26:26] [Server thread/INFO]: <The_Sera_Road> doesnt
+[23:26:36] [Server thread/INFO]: <The_Sera_Road> oh baby
+[23:26:39] [Server thread/INFO]: <daisysmasher> jump down
+[23:26:47] [Server thread/INFO]: <The_Sera_Road> i have to go
+[23:26:52] [Server thread/INFO]: <daisysmasher> ok
+[23:27:16] [Server thread/INFO]: <daisysmasher> move around
+[23:27:30] [Server thread/INFO]: <The_Sera_Road> has not roo,
+[23:27:34] [Server thread/INFO]: <The_Sera_Road> room
+[23:27:38] [Server thread/INFO]: <daisysmasher> oh ok
+[23:27:44] [Server thread/INFO]: <daisysmasher> so now what
+[23:27:48] [Server thread/INFO]: <daisysmasher> tp home?
+[23:27:58] [Server thread/INFO]: <The_Sera_Road> do you know where it is?
+[23:28:00] [Server thread/INFO]: <daisysmasher> no
+[23:28:42] [Server thread/INFO]: <The_Sera_Road> ok hang on
+[23:28:51] [Server thread/INFO]: [The_Sera_Road: Set own game mode to Creative Mode]
+[23:29:04] [Server thread/INFO]: [The_Sera_Road: Teleported The_Sera_Road to 100.5,100.5,100.5]
+[23:29:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7657ms behind, skipping 153 tick(s)
+[23:29:29] [Server thread/INFO]: <daisysmasher> did you know roughly where we were?
+[23:30:13] [Server thread/INFO]: <The_Sera_Road> -176 269 65
+[23:30:19] [Server thread/INFO]: [The_Sera_Road: Teleported The_Sera_Road to daisysmasher]
+[23:30:35] [Server thread/INFO]: [The_Sera_Road: Teleported The_Sera_Road to -175.5,269.5,65.5]
+[23:30:47] [Server thread/INFO]: <The_Sera_Road> woops
+[23:30:59] [Server thread/INFO]: <daisysmasher> was that not right?
+[23:31:08] [Server thread/INFO]: [The_Sera_Road: Teleported The_Sera_Road to -175.5,65.5,269.5]
+[23:31:48] [Server thread/INFO]: <The_Sera_Road> ok go to me
+[23:31:56] [Server thread/INFO]: [daisysmasher: Teleported daisysmasher to The_Sera_Road]
+[23:32:03] [Server thread/INFO]: <daisysmasher> :D
+[23:32:07] [Server thread/INFO]: <daisysmasher> we have doggies
+[23:32:29] [Server thread/INFO]: <The_Sera_Road> yes :)
+[23:32:32] [Server thread/INFO]: <daisysmasher> wait
+[23:32:36] [Server thread/INFO]: <daisysmasher> did mine not come back?
+[23:32:36] [Server thread/INFO]: <The_Sera_Road> now i have to go
+[23:32:45] [Server thread/INFO]: <The_Sera_Road> its right here
+[23:32:52] [Server thread/INFO]: <daisysmasher> cannot see
+[23:32:53] [Server thread/INFO]: <daisysmasher> ok
+[23:33:08] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:33:08] [Server thread/INFO]: daisysmasher left the game
+[23:33:12] [User Authenticator #3/INFO]: UUID of player daisysmasher is c2b7089277ea4db8a25f25986ed253b2
+[23:33:12] [Server thread/INFO]: daisysmasher[/25.116.38.47:5687] logged in with entity id 57598 at (-175.8827507349109, 64.0, 269.38733051630334)
+[23:33:12] [Server thread/INFO]: daisysmasher joined the game
+[23:33:26] [Server thread/INFO]: <daisysmasher> still cannot see my pup
+[23:33:47] [Server thread/INFO]: <The_Sera_Road> doesnt know
+[23:34:02] [Server thread/INFO]: <daisysmasher> found him in the water
+[23:34:10] [Server thread/INFO]: The_Sera_Road lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:34:10] [Server thread/INFO]: The_Sera_Road left the game
+[23:34:16] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:34:16] [Server thread/INFO]: daisysmasher left the game
+[23:37:53] [Server thread/INFO]: Stopping the server
+[23:37:53] [Server thread/INFO]: Stopping server
+[23:37:53] [Server thread/INFO]: Saving players
+[23:37:53] [Server thread/INFO]: Saving worlds
+[23:37:53] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:37:53] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:37:53] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:37:54] [Server Shutdown Thread/INFO]: Stopping server
