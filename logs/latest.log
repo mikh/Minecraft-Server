@@ -1,47 +1,10 @@
-[00:01:16] [Server thread/INFO]: <daisysmasher> aww puppy is so cute
-[00:07:03] [Server thread/INFO]: <The_Sera_Road> baby look!
-[00:07:25] [Server thread/INFO]: <daisysmasher> he is sad
-[00:08:28] [Server thread/INFO]: <The_Sera_Road> silly horse
-[00:08:31] [Server thread/INFO]: <daisysmasher> lol
-[00:08:33] [Server thread/INFO]: <daisysmasher> yeah
-[00:09:17] [Server thread/INFO]: <daisysmasher> why did my puppy join in on the fun
-[00:09:25] [Server thread/INFO]: <daisysmasher> he was supposed to sit in the open area and wait
-[00:09:27] [Server thread/INFO]: <The_Sera_Road> the lava empties into the river
-[00:09:30] [Server thread/INFO]: <The_Sera_Road> aww
-[00:09:34] [Server thread/INFO]: <daisysmasher> cool
-[00:09:38] [Server thread/INFO]: <The_Sera_Road> he wanted spider flesh
-[00:09:43] [Server thread/INFO]: <daisysmasher> aww
-[00:09:53] [Server thread/INFO]: <The_Sera_Road> does baby not want lava river?
-[00:10:00] [Server thread/INFO]: <daisysmasher> no keep it
-[00:11:38] [Server thread/INFO]: <The_Sera_Road> i like babys houses
-[00:11:44] [Server thread/INFO]: <daisysmasher> aww ty
-[00:12:39] [Server thread/INFO]: <The_Sera_Road> ok sweetie
-[00:12:46] [Server thread/INFO]: <The_Sera_Road> im going to call it a night
-[00:12:52] [Server thread/INFO]: <The_Sera_Road> do you want to talk?
-[00:13:09] [Server thread/INFO]: <daisysmasher> ok
-[00:13:11] [Server thread/INFO]: <daisysmasher> yaaaa
-[00:13:13] [Server thread/INFO]: <daisysmasher> :D
-[00:13:16] [Server thread/INFO]: <The_Sera_Road> haha ok
-[00:13:24] [Server thread/INFO]: <daisysmasher> goodnight
-[00:13:25] [Server thread/INFO]: <The_Sera_Road> talks on chat
-[00:13:27] [Server thread/INFO]: <daisysmasher> ok
-[00:13:30] [Server thread/INFO]: <The_Sera_Road> goodnight!
-[00:13:33] [Server thread/INFO]: <The_Sera_Road> <3
-[00:13:35] [Server thread/INFO]: <daisysmasher> no!
-[00:13:38] [Server thread/INFO]: <daisysmasher> no goodnights
-[00:13:41] [Server thread/INFO]: <The_Sera_Road> aww haha
-[00:13:43] [Server thread/INFO]: <The_Sera_Road> ok
-[00:13:44] [Server thread/INFO]: <daisysmasher> lol i was typing and forgot tot hit t
-[00:13:52] [Server thread/INFO]: <daisysmasher> ok see ya
-[00:13:54] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:13:54] [Server thread/INFO]: daisysmasher left the game
-[00:13:55] [Server thread/INFO]: The_Sera_Road lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:13:55] [Server thread/INFO]: The_Sera_Road left the game
-[00:14:06] [Server thread/INFO]: Stopping the server
-[00:14:06] [Server thread/INFO]: Stopping server
-[00:14:06] [Server thread/INFO]: Saving players
-[00:14:06] [Server thread/INFO]: Saving worlds
-[00:14:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:14:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:14:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[00:14:06] [Server Shutdown Thread/INFO]: Stopping server
+[00:40:10] [Server thread/INFO]: daisysmasher lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:40:10] [Server thread/INFO]: daisysmasher left the game
+[00:41:01] [Server thread/INFO]: Stopping the server
+[00:41:01] [Server thread/INFO]: Stopping server
+[00:41:01] [Server thread/INFO]: Saving players
+[00:41:01] [Server thread/INFO]: Saving worlds
+[00:41:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:41:01] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:41:01] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:41:02] [Server Shutdown Thread/INFO]: Stopping server
